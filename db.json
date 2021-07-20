@@ -1,0 +1,134 @@
+{
+  "posts": [{
+    "id": 1,
+    "title": "json-server",
+    "author": "typicode"
+  }],
+  "comments": [{
+    "id": 1,
+    "body": "some comment",
+    "postId": 1
+  }],
+  "profile": {
+    "name": "typicode"
+  },
+  "product": [{
+      "id": "list",
+      "code": 666,
+      "msg": "success",
+      "list": [{
+          "categoryName": "时令鲜果",
+          "categoryId": 145,
+          "productId": 105987280,
+          "masterName": "【山东】金秋红蜜桃",
+          "slaveName": "基地果园现摘现发 鲜甜红润肉厚 富含维生素",
+          "inventory": 9998,
+          "maxPrice": 5990,
+          "minPrice": 5780,
+          "imgUrl": "https://mall.s.maizuo.com/86d8414272e50b4b9a7b185ac30dfc86.png?x-oss-process=image/resize,w_180"
+        },
+        {
+          "categoryName": "时令鲜果",
+          "categoryId": 145,
+          "productId": 104553417,
+          "masterName": "【云南】实建褚橙 10斤装 （95-135g/枚）",
+          "slaveName": "源自“花腰傣之乡” 鲜甜脆嫩多汁 富含维C营养",
+          "inventory": 9931,
+          "maxPrice": 9800,
+          "minPrice": 9800,
+          "imgUrl": "https://mall.s.maizuo.com/c8ae4728163788cda4147e1ed8c44409.png?x-oss-process=image/resize,w_180"
+        },
+        {
+          "categoryName": "时令鲜果",
+          "categoryId": 145,
+          "productId": 104015233,
+          "masterName": "【海南】红心火龙果礼盒装  5斤装（5-7枚）",
+          "slaveName": "基地果园采摘 鲜嫩爽口水润 富含天然花青素",
+          "inventory": 9953,
+          "maxPrice": 6990,
+          "minPrice": 6990,
+          "imgUrl": "https://mall.s.maizuo.com/14a9e655a578abe935f8c150b6d85592.png?x-oss-process=image/resize,w_180"
+        },
+        {
+          "categoryName": "时令鲜果",
+          "categoryId": 145,
+          "productId": 104452666,
+          "masterName": "【云南】新鲜冰糖橙 5斤装 （果径60mm+/枚）20-30个",
+          "slaveName": "生态果园采摘 肉厚清甜多汁 富含维C营养",
+          "inventory": 99290,
+          "maxPrice": 2990,
+          "minPrice": 2990,
+          "imgUrl": "https://mall.s.maizuo.com/0238d75b8a9e13c5a18df9781c296c83.png?x-oss-process=image/resize,w_180"
+        },
+        {
+          "categoryName": "时令鲜果",
+          "categoryId": 145,
+          "productId": 94217104,
+          "masterName": "【山西】红富士苹果 8-10枚5斤装（果径80mm/枚）",
+          "slaveName": "生态基地种植 饱满圆润脆甜 皮薄肉厚多汁",
+          "inventory": 9053,
+          "maxPrice": 3480,
+          "minPrice": 3480,
+          "imgUrl": "https://mall.s.maizuo.com/9aba9f63c14a9aa7d469b62a0f9cde41.png?x-oss-process=image/resize,w_180"
+        },
+        {
+          "categoryName": "时令鲜果",
+          "categoryId": 145,
+          "productId": 104356809,
+          "masterName": "【云南】冰糖心丑苹果",
+          "slaveName": "原产基地直供 脆甜多汁爽口 自然糖心结晶",
+          "inventory": 99893,
+          "maxPrice": 7180,
+          "minPrice": 3990,
+          "imgUrl": "https://mall.s.maizuo.com/c3797b5e9dab17cb3e1c56547ba7d406.png?x-oss-process=image/resize,w_180"
+        },
+        {
+          "categoryName": "时令鲜果",
+          "categoryId": 145,
+          "productId": 102043040,
+          "masterName": "【河北】红袖添香 甄西瓜 礼盒装1枚（2斤）",
+          "slaveName": "个头圆润饱满 肉厚沙瓤鲜甜 富含果糖维生素",
+          "inventory": 9977,
+          "maxPrice": 3990,
+          "minPrice": 3990,
+          "imgUrl": "https://mall.s.maizuo.com/f6f787571eb0f43ca5db9bb4e3a3bb80.png?x-oss-process=image/resize,w_180"
+        },
+        {
+          "categoryName": "时令鲜果",
+          "categoryId": 145,
+          "productId": 102062396,
+          "masterName": "【山东】海阳网纹瓜 2个5斤装（2.4-2.6斤/枚）",
+          "slaveName": "皮薄圆润均匀 肉厚鲜嫩脆甜 现摘现发",
+          "inventory": 9840,
+          "maxPrice": 3580,
+          "minPrice": 3580,
+          "imgUrl": "https://mall.s.maizuo.com/bcc961c6faea5b9a2467c9d759db3cd6.png?x-oss-process=image/resize,w_180"
+        },
+        {
+          "categoryName": "时令鲜果",
+          "categoryId": 145,
+          "productId": 102130639,
+          "masterName": "【山东】烟台丑苹果 12枚装（75mm+/枚）",
+          "slaveName": "生态基地种植 饱满鲜嫩脆甜 富含维C辅食佳",
+          "inventory": 9846,
+          "maxPrice": 3990,
+          "minPrice": 3990,
+          "imgUrl": "https://mall.s.maizuo.com/0181314b3c641fa9f9e2e4999389b879.png?x-oss-process=image/resize,w_180"
+        },
+        {
+          "categoryName": "时令鲜果",
+          "categoryId": 145,
+          "productId": 104422476,
+          "masterName": "【山东】水果牛奶白玉黄瓜 5斤装（18-25根）",
+          "slaveName": "农家现摘现发 饱满脆嫩光滑 肉厚新鲜爽口",
+          "inventory": 99974,
+          "maxPrice": 3990,
+          "minPrice": 3990,
+          "imgUrl": "https://mall.s.maizuo.com/fac0e634a3fc27e1708ad06f667aa47d.png?x-oss-process=image/resize,w_180"
+        }
+      ],
+      "pageNum": 1
+    }
+
+  ]
+}

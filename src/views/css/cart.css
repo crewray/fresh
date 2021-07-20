@@ -1,0 +1,69 @@
+.cart-wrap .red {
+  color: #c03131;
+}
+.cart-wrap .header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 46px;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px;
+}
+.cart-wrap .header .red {
+  color: #c03131;
+  font-size: 14px;
+}
+.cart-wrap .header span {
+  display: block;
+}
+.cart-wrap .orders {
+  margin-top: 47px;
+}
+.cart-wrap .orders .item {
+  background-color: #fff;
+  height: 125px;
+  padding: 15px 0;
+  display: flex;
+  align-items: center;
+}
+.cart-wrap .orders .item img {
+  background: #f8f8f8;
+}
+.cart-wrap .orders .item .info {
+  height: 100%;
+  padding: 5px 15px;
+}
+.cart-wrap .orders .item .num {
+  color: #999;
+  font-size: 12px;
+}
+.cart-wrap .orders .checkbox {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+}
+.cart-wrap .bottom {
+  height: 50px;
+  width: 100%;
+  bottom: 51px;
+  position: fixed;
+  padding-left: 15px;
+}
+.cart-wrap .bottom .van-checkbox__label {
+  font-size: 14px;
+}
+.cart-wrap .bottom .cost {
+  align-items: baseline;
+}
+.cart-wrap .bottom #final {
+  width: 110px;
+  display: block;
+  height: 50px;
+  color: white;
+  border: 0;
+  outline: 0;
+  background-color: #c03131;
+}

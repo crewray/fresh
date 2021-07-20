@@ -1,0 +1,137 @@
+.detail-wrap .header {
+  width: 100%;
+  height: 46px;
+  padding: 0 15px;
+  position: fixed;
+  top: 0;
+  z-index: 99;
+}
+.detail-wrap .header #back {
+  color: #c03131;
+  font-size: 14px;
+}
+.detail-wrap .header p:nth-child(2) {
+  font-size: 16px;
+}
+.detail-wrap .header p:nth-child(3) {
+  width: 44px;
+}
+.detail-wrap p {
+  color: #323233;
+}
+.detail-wrap .product-swipe {
+  margin-top: 46px;
+}
+.detail-wrap .product-swipe img {
+  width: 100%;
+}
+.detail-wrap .product-swipe .custom-indicator {
+  position: absolute;
+  right: 5px;
+  bottom: 5px;
+  padding: 2px 5px;
+  font-size: 12px;
+  background: rgba(0, 0, 0, 0.1);
+  color: white;
+}
+.detail-wrap .info {
+  padding: 15px;
+}
+.detail-wrap .info .title {
+  line-height: 25px;
+}
+.detail-wrap .info .title span {
+  display: inline-block;
+  margin-right: 5px;
+  font-size: 12px;
+  padding: 0 5px;
+  color: #fff;
+}
+.detail-wrap .info .title span:first-child {
+  background-color: #78a0d1;
+}
+.detail-wrap .info .title span:nth-child(2) {
+  background-color: #91bc6f;
+}
+.detail-wrap .info .title p {
+  font-size: 15px;
+  display: inline;
+}
+.detail-wrap .info .box {
+  padding: 10px 16px;
+  border-bottom: 1px solid #f4f4f4;
+}
+.detail-wrap .title-wrap {
+  height: 46px;
+  font-size: 12px;
+}
+.detail-wrap .title-wrap .title::before {
+  position: absolute;
+}
+.detail-wrap .img-wrap img {
+  width: 100%;
+}
+.detail-wrap .img-wrap .title {
+  height: 46px;
+}
+.detail-wrap .context {
+  padding: 15px;
+}
+.detail-wrap .context .message {
+  height: 24px;
+  margin: 12px 0;
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  color: #797d82;
+}
+.detail-wrap .foot {
+  width: 100%;
+  background-color: #fff;
+  position: fixed;
+  bottom: 0;
+  height: 50px;
+}
+.detail-wrap .foot .box {
+  width: 50px;
+}
+.detail-wrap .foot .num {
+  background-color: red;
+  color: white;
+  top: 0;
+  right: 0;
+  border-radius: 50%;
+  height: 15px;
+  width: 15px;
+  text-align: center;
+}
+.detail-wrap .foot .iconfont {
+  font-size: 24px;
+}
+.detail-wrap .foot .icon-heart-o-copy {
+  font-weight: bold;
+}
+.detail-wrap .foot p {
+  padding-top: 5px;
+  font-size: 12px;
+  color: #797d82;
+}
+.detail-wrap .foot .right button {
+  width: 103px;
+  height: 40px;
+  display: flex;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  border: 0;
+  outline: 0;
+}
+.detail-wrap .foot #add {
+  background: linear-gradient(90deg, #ffd01e, #ff8917);
+  border-top-left-radius: 20px;
+}
+.detail-wrap .foot #buy {
+  background: linear-gradient(90deg, #ff6034, #ee0a24);
+  margin-right: 5px;
+}
